@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "outDir": "dist",
+    "rootDir": ".",
+    "target": "ES3",
+    "types": ["node", "jest"]
+  },
+  "include": ["src", "__test__", "tests", "tests"],
+  "exclude": ["node_modules"]
+}
